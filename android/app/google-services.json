@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880978838887",
+    "project_id": "mamami-unutma",
+    "storage_bucket": "mamami-unutma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880978838887:android:083cde9d487478118edbc2",
+        "android_client_info": {
+          "package_name": "com.oguz.mamami_unutma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880978838887-34jc3s6r7hksrli3nrqo8oqr6ep3o7pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VgoakoaknqRPhX5FiZEWagUi1XrgVXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880978838887-34jc3s6r7hksrli3nrqo8oqr6ep3o7pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880978838887-k7pre52l0lujfr7n1c8t9a3n2cmsqfpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oguz.mamamiUnutma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
